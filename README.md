@@ -1,3 +1,3 @@
-# renovate-config-rename-test-old
+# renovate-config-rename-test
 
 Renovate Config Rename Test
