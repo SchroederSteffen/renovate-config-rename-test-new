@@ -1,4 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["group:allNonMajor"]
+  "extends": [
+    "config:best-practices",
+    "github>SchroederSteffen/renovate-config-rename-test-old:allNonMajor"
+  ]
 }
